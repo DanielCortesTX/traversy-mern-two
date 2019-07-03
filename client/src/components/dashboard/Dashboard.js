@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 import Loader from '../layout/Loader'
-import DashbardActions from './DashboardActions'
 import { getCurrentProfile } from '../../actions/profile'
 import DashboardActions from './DashboardActions';
 
