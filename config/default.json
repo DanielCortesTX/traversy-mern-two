@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://dan123:farlaxa@traversy-mern-two-vkip8.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "1295f87e25d7e8438015",
+  "githubSecret": "b0bd58083200143d24fba81fc978397896f73b80"
 }
